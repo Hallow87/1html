@@ -9,3 +9,5 @@ Koodi palikka
 - [x] tee tehtävä
 - [ ] toinen
 - [ ] kolmas
+
+	Tärkeitä sanoja --> ==Tärkeitä sanoja==.
