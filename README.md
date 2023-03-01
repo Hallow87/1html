@@ -10,4 +10,5 @@ Koodi palikka
 - [ ] toinen
 - [ ] kolmas
 
-Tärkeitä sanoja  ==Tärkeitä sanoja==.
+H~2~O
+X^2^
