@@ -10,4 +10,4 @@ Koodi palikka
 - [ ] toinen
 - [ ] kolmas
 
-	Tärkeitä sanoja --> ==Tärkeitä sanoja==.
+Tärkeitä sanoja --> ==Tärkeitä sanoja==.
