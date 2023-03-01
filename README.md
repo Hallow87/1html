@@ -11,4 +11,7 @@ Koodi palikka
 - [ ] kolmas
 
 H~2~O
-X^2^
+
+- First item
+- Second item
+- Third item
