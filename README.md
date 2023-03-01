@@ -18,4 +18,4 @@ H~2~O
 
 	> sisennys
 
-![alt text]([image.jpg](https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png))
+![alt text]([https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png])
